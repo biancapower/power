@@ -5,8 +5,7 @@ sections:
     component: hero_block.html
     type: heroblock
     content: >-
-      This section can contain a subtitle or tagline. The recommended length is
-      one to three sentences, but can be changed as you prefer.
+      Vim user, crazy about CLI tools, mildly obsessed with finding neat git tricks
   - section_id: about
     component: content_block.html
     type: contentblock
