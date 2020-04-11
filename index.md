@@ -5,19 +5,7 @@ sections:
     component: hero_block.html
     type: heroblock
     content: >-
-      Vim user, crazy about CLI tools, mildly obsessed with finding neat git tricks
-  - section_id: about
-    component: content_block.html
-    type: contentblock
-    title: About
-    content: >-
-      This is the "about" excerpt. It can be used to provide a paragraph about
-      yourself that people can read on the homepage to get a sense of who you
-      are. There also exists a dedicated about page where you can write more
-      about yourself for those who are interested.
-    actions:
-      - label: Contact Me
-        url: /contact
+      Vim user, crazy about CLI tools, mildly obsessed with git
   - section_id: recent-posts
     component: posts_block.html
     type: postsblock
